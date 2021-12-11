@@ -55,6 +55,7 @@ namespace SocSystem.Admin
             {
                 sex = false;
             }
+            int x;
 
             string Class= textBox3.Text.Trim();
             string  tel = textBox4.Text.Trim();
